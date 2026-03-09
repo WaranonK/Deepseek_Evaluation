@@ -58,7 +58,7 @@ The full experiment pipeline is implemented in a Jupyter Notebook:
 
 You can run this project directly on Google Colab:
 
-[Open in Colab](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1RG8uEE98gJGtnZ5ZkwRQoy-zRvVI8S3M?usp=sharing))
 
 ---
 
@@ -70,4 +70,3 @@ You can run this project directly on Google Colab:
 - BitsAndBytes
 - Pandas
 - Datasets
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1RG8uEE98gJGtnZ5ZkwRQoy-zRvVI8S3M?usp=sharing))
